@@ -1,4 +1,4 @@
-import 'package:shop_list/models/groceries.dart';
+import 'package:shopping_list/models/groceries.dart';
 
 const List<Grocery> allGroceries = [
   Grocery(id: '1', title: 'Milk', quantity: 2),
