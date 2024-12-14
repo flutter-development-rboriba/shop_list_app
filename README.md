@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Shopping List App](./groceries_app.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
